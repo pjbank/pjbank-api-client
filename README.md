@@ -25,6 +25,22 @@ PJBankClient.get(endpoint)
 
 ```
 
+Output
+
+```json
+{
+    "bancos": {
+        "001": "Banco do Brasil",
+        "033": "Santander",
+        "104": "Caixa Econômica Federal",
+        "237": "Bradesco",
+        "341": "Itaú",
+        "399": "HSBC",
+        "756": "Sicoob"
+    }
+}
+```
+
 
 # Customizando o request 
 
