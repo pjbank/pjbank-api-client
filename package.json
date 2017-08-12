@@ -1,6 +1,6 @@
 {
   "name": "pjbank-api-client",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "PJBank API Client for NodeJS",
   "main": "lib/index.js",
   "scripts": {
