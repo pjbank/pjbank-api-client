@@ -1,7 +1,8 @@
 'use strict';
 
-const PJBank = require('./lib/index.js');
-const PJBankAPI = new PJBank('', '').Client;
+const PJBankAPI = require('./lib/index');
+
+console.log(PJBankAPI); 
 
 const headers = {
     'content-type': 'application/json',
