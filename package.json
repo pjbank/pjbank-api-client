@@ -1,23 +1,23 @@
 {
-  "name": "pjbank-api-client",
-  "version": "1.0.4",
-  "description": "PJBank API Client for NodeJS",
-  "main": "lib/index.js",
-  "scripts": {
-    "test": "test"
-  },
-  "keywords": [
-    "PIBank",
-    "fintech",
-    "api",
-    "boleto",
-    "cartao",
-    "contadigital"
-  ],
-  "author": "Matheus Fidelis",
-  "license": "ISC",
-  "dependencies": {
-    "request": "^2.81.0",
-    "request-promise": "^4.2.1"
-  }
+    "name": "pjbank-api-client",
+    "version": "1.0.5",
+    "description": "PJBank API Client for NodeJS",
+    "main": "lib/index.js",
+    "scripts": {
+        "test": "test"
+    },
+    "keywords": [
+        "PIBank",
+        "fintech",
+        "api",
+        "boleto",
+        "cartao",
+        "contadigital"
+    ],
+    "author": "Matheus Fidelis",
+    "license": "ISC",
+    "dependencies": {
+        "request": "^2.81.0",
+        "request-promise": "^4.2.1"
+    }
 }
