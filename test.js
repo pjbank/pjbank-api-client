@@ -9,7 +9,7 @@ const headers = {
     'X-CHAVE' : 'ef947cf5867488f744b82744dd3a8fc4852e529f'
 };
 
-const endpoint = "recebimento/d3418668b85cea70aa28965eafaf927cd34d004c/transacoes";
+const endpoint = "recebimentos/d3418668b85cea70aa28965eafaf927cd34d004c/transacoes";
 
 const body = {
     "vencimento": "12/30/2019",
